@@ -78,3 +78,18 @@ Windows Azure es una plataforma abierta y flexible que permite compilar, impleme
 SmartCloud ofrece una gestión de cloud con el valor agregado que permite la elección y la automatización más allá del aprovisionamiento de máquinas virtuales. IBM SmartCloud Enterprise+ es un entorno Cloud seguro, totalmente administrado y listo para producción, diseñado para garantizar una alta performance y disponibilidad. Asimismo, ofrece completo control  de «governance», administración y gestión, permitiendo definir acuerdos de nivel de servicio para alinear las necesidades de negocio y los requisitos de uso.
 
 ![](https://github.com/YordanRD/Investigacion/blob/master/CuadroComparativo.JPG)
+
+## Bibliografía.
+
+¿Quién inventó la computación en la nube? (s. f.). sky.one. Recuperado 24 de julio de 2020, de https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expresi%C3%B3n%20%E2%80%9CCloud%20Computing%E2%80%9D%20(,la%20tecnolog%C3%ADa%20de%20Inteligencia%20Artificial.
+ 
+Cloud Computing - Aplicaciones en un solo tacto. (s. f.). salesforce. Recuperado 24 de julio de 2020, de https://www.salesforce.com/mx/cloud-computing/
+
+COMPUTACIÓN EN LA NUBE: DE LA EMPRESA AL AULA. (s. f.). informaticaldv. Recuperado 24 de julio de 2020, de https://cloud.informaticaldv.com/conceptos-basicos/
+
+¿Qué es la informática en la nube? Guía para principiantes | Micros... (s. f.). Microsoft Azure. Recuperado 24 de julio de 2020, de https://azure.microsoft.com/es-es/overview/what-is-cloud-computing/#cloud-computing-models
+
+plataformas Cloud Computing. (s. f.). EvaluandobCloud. Recuperado 24 de julio de 2020, de https://evaluandocloud.com/estudio-comparativos-de-plataformas-cloud-computing/
+Comparativo de plataformas Cloud Computing. (s. f.). [Cuadro comparativo]. 
+https://drive.google.com/file/d/0B45pcw_Ee6-_emtzV21icEpQeU0/view
+
