@@ -77,4 +77,4 @@ Windows Azure es una plataforma abierta y flexible que permite compilar, impleme
 ### IBM SmartCloud
 SmartCloud ofrece una gestión de cloud con el valor agregado que permite la elección y la automatización más allá del aprovisionamiento de máquinas virtuales. IBM SmartCloud Enterprise+ es un entorno Cloud seguro, totalmente administrado y listo para producción, diseñado para garantizar una alta performance y disponibilidad. Asimismo, ofrece completo control  de «governance», administración y gestión, permitiendo definir acuerdos de nivel de servicio para alinear las necesidades de negocio y los requisitos de uso.
 
-![](https://concepto.de/wp-content/uploads/2014/08/)
+![](https://github.com/YordanRD/Investigacion/blob/master/CuadroComparativo.JPG)
