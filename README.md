@@ -67,3 +67,14 @@ Software como servicio es un método de entrega de aplicaciones a través de int
 ***
 
 ## Comparativa de los tres principales proveedores de cloud computing.
+
+### Amazon Elastic Compute Cloud (EC2)
+Amazon EC2 es un servicio web que brinda capacidad informática de tamaño ajustable en la nube, diseñado para facilitar a los usuarios recursos informáticos escalables y basados en web. Amazon EC2 reduce el tiempo necesario para obtener nuevas instancias de servidor, lo que permite escalar rápidamente la capacidad, ya sea aumentándola o reduciéndola, según sus necesidades. También cambia el modelo económico de la informática, al permitir pagar sólo por la capacidad realmente usada.
+
+### Windows Azure
+Windows Azure es una plataforma abierta y flexible que permite compilar, implementar y administrar aplicaciones rápidamente en una red global de centros de datos administrados por Microsoft, y es capaz de compilar aplicaciones en cualquier lenguaje, herramienta o marco, permitiendo además integrar sus aplicaciones de nube públicas con el entorno de TI existente.
+
+### IBM SmartCloud
+SmartCloud ofrece una gestión de cloud con el valor agregado que permite la elección y la automatización más allá del aprovisionamiento de máquinas virtuales. IBM SmartCloud Enterprise+ es un entorno Cloud seguro, totalmente administrado y listo para producción, diseñado para garantizar una alta performance y disponibilidad. Asimismo, ofrece completo control  de «governance», administración y gestión, permitiendo definir acuerdos de nivel de servicio para alinear las necesidades de negocio y los requisitos de uso.
+
+![](https://concepto.de/wp-content/uploads/2014/08/)
